@@ -1,0 +1,16 @@
+[
+	{
+		"nome":"Produto1",
+		"imagem":"imagem1",
+		"estado":"California",
+		"valor":1,
+		"cartao":true
+	},
+	{
+		"nome":"Produto2",
+		"imagem":"imagem2",
+		"estado":"California",
+		"valor":2,
+		"cartao":true
+	}
+]
